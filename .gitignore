@@ -48,3 +48,6 @@ yarn.lock
 
 # DS_Store 
 .DS_Store
+
+
+node_modules (for REACT).zip
